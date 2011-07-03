@@ -1,0 +1,18 @@
+{
+	"style": {
+		"background-color": "#31312a",
+		"width": "fill-parent",
+		"height": "fill-parent"
+	},
+
+	"contents": [
+		{
+			"name": "scene",
+			"control": "SceneView",
+			"style": {
+				"width": "fill-parent",
+				"height": "fill-parent"
+			}
+		}
+	]
+}
